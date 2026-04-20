@@ -59,7 +59,7 @@ Despite consistent user traffic across multiple channels, the business does not 
 
 ## SQL Queries
 
-All SQL queries used in this analysis are available in the /[queries](https://) folder.
+All SQL queries used in this analysis are available in the /[queries](https://github.com/imon05/ecommerce-analytics-bigquery/tree/main/queries) folder.
 
 ## Tools Used
 
